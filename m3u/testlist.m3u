@@ -1,565 +1,331 @@
 #EXTM3U
-#EXTINF:-1, SPORT TV 1
-http://satznt.mine.nu:7002/sptv1
-#EXTINF:-1,Top Channel
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/106.ts
-#EXTINF:-1,Top Channel B
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/2.ts
-#EXTINF:-1,Top Channel HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/25.ts
-#EXTINF:-1,Klan
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/107.ts
-#EXTINF:-1,Klan B
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/4.ts
-#EXTINF:-1,Klan HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/26.ts
-#EXTINF:-1,Top News
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/3.ts
-#EXTINF:-1,Vizion Plus
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/10.ts
-#EXTINF:-1,Agon Channel
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/9.ts
-#EXTINF:-1,AGON CHANNEL IT
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/726.ts
-#EXTINF:-1,News 24
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/5.ts
-#EXTINF:-1,Ora News HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/728.ts
-#EXTINF:-1,A1 News
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/7.ts
-#EXTINF:-1,Abc News
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/6.ts
-#EXTINF:-1,Tvsh
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/108.ts
-#EXTINF:-1,Click Tv
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/769.ts
-#EXTINF:-1,Rrokum HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/717.ts
-#EXTINF:-1,First Tv
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/715.ts
-#EXTINF:-1,AS
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/1.ts
-#EXTINF:-1,Jug Tv
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/238.ts
-#EXTINF:-1,Star Plus Shkoder
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/181.ts
-#EXTINF:-1,EuroNews
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/226.ts
-#EXTINF:-1,Rtk
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/15.ts
-#EXTINF:-1,Ktv
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/48.ts
-#EXTINF:-1,21 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/47.ts
-#EXTINF:-1,21 Plus
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/725.ts
-#EXTINF:-1,21 HD Popullore
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/49.ts
-#EXTINF:-1,Klan Kosova
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/11.ts
-#EXTINF:-1,Era Tv
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/175.ts
-#EXTINF:-1,3 Plus
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/173.ts
-#EXTINF:-1,Alsat M
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/39.ts
-#EXTINF:-1,MKTV2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/94.ts
-#EXTINF:-1,Bang Bang
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/12.ts
-#EXTINF:-1,Cufo
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/13.ts
-#EXTINF:-1,Junior
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/14.ts
-#EXTINF:-1,Explorer Shkence
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/16.ts
-#EXTINF:-1,Explorer History
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/17.ts
-#EXTINF:-1,Explorer Natyre
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/18.ts
-#EXTINF:-1,Dasma Tv
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/168.ts
-#EXTINF:-1,Music Al
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/772.ts
-#EXTINF:-1,Folk Plus
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/212.ts
-#EXTINF:-1,Supersonic Tv
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/24.ts
-#EXTINF:-1,BBF
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/28.ts
-#EXTINF:-1,Super Folk
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/38.ts
-#EXTINF:-1,Alb Music
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/714.ts
-#EXTINF:-1,Tv Opoja
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/768.ts
-#EXTINF:-1,Elrodi
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/43.ts
-#EXTINF:-1,Tirana Tv
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/37.ts
-#EXTINF:-1,Folklorit
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/156.ts
-#EXTINF:-1,Mad Albania
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/8.ts
-#EXTINF:-1,My Music
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/27.ts
-#EXTINF:-1,Fox Crime
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/32.ts
-#EXTINF:-1,T+ HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/20.ts
-#EXTINF:-1,Stinet
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/19.ts
-#EXTINF:-1,ALB. UK
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/174.ts
-#EXTINF:-1,Plus HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/770.ts
-#EXTINF:-1,Film Nje HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/23.ts
-#EXTINF:-1,Film Dy HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/31.ts
-#EXTINF:-1,Film Autor
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/192.ts
-#EXTINF:-1,Film Hits
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/42.ts
-#EXTINF:-1,Film Hits 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/74.ts
-#EXTINF:-1,Film Triller
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/45.ts
-#EXTINF:-1,Film Drame
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/46.ts
-#EXTINF:-1,Film Aksion
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/21.ts
-#EXTINF:-1,Film Komedi
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/22.ts
-#EXTINF:-1,Big Brother 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/40.ts
-#EXTINF:-1,Big Brother 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/41.ts
-#EXTINF:-1,Supersport 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/29.ts
-#EXTINF:-1,Supersport 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/30.ts
-#EXTINF:-1,Supersport 3
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/34.ts
-#EXTINF:-1,Supersport 4
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/33.ts
-#EXTINF:-1,SuperSport 1 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/153.ts
-#EXTINF:-1,SuperSport 2 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/154.ts
-#EXTINF:-1,Supersport 3 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/720.ts
-#EXTINF:-1,SuperSport4 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/722.ts
-#EXTINF:-1,Supersport Kosova 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/35.ts
-#EXTINF:-1,Supersport Kosova 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/36.ts
-#EXTINF:-1,Digi Gold
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/191.ts
-#EXTINF:-1,Joly HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/169.ts
-#EXTINF:-1,Tiptv
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/65.ts
-#EXTINF:-1,Tring Tring
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/53.ts
-#EXTINF:-1,Tring Word
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/54.ts
-#EXTINF:-1,Tring Planet
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/52.ts
-#EXTINF:-1,Tring Living
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/176.ts
-#EXTINF:-1,Tring Fantasy
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/721.ts
-#EXTINF:-1,Tring Super
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/716.ts
-#EXTINF:-1,Tring Max
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/50.ts
-#EXTINF:-1,Tring Shqip
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/55.ts
-#EXTINF:-1,Tring History
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/56.ts
-#EXTINF:-1,Tring Comedy
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/51.ts
-#EXTINF:-1,Tring Life
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/713.ts
-#EXTINF:-1,TRING SPORT 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/232.ts
-#EXTINF:-1,Sitel
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/91.ts
-#EXTINF:-1,Telma
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/90.ts
-#EXTINF:-1,KANAL 5
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/92.ts
-#EXTINF:-1,MRTV 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/93.ts
-#EXTINF:-1,PINK 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/85.ts
-#EXTINF:-1,Pink BH
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/115.ts
-#EXTINF:-1,Pink Music
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/201.ts
-#EXTINF:-1,Dm Sat
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/699.ts
-#EXTINF:-1,Doma
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/779.ts
-#EXTINF:-1,HAYAT FOLK
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/229.ts
-#EXTINF:-1,PINK FOLK 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/87.ts
-#EXTINF:-1,PINK ACTION
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/86.ts
-#EXTINF:-1,Nova TV
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/100.ts
-#EXTINF:-1,PRVA
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/230.ts
-#EXTINF:-1,OBN
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/99.ts
-#EXTINF:-1,RTRS
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/150.ts
-#EXTINF:-1,BN
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/178.ts
-#EXTINF:-1,B92
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/151.ts
-#EXTINF:-1,HRT
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/97.ts
-#EXTINF:-1,HRT 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/98.ts
-#EXTINF:-1,Sport Klub 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/101.ts
-#EXTINF:-1,Sport Klub 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/102.ts
-#EXTINF:-1,Sport Klub 3
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/103.ts
-#EXTINF:-1,Arena Sport 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/62.ts
-#EXTINF:-1,Arena Sport 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/63.ts
-#EXTINF:-1,Arena Sport 3
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/171.ts
-#EXTINF:-1,Arena Sport 4
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/64.ts
-#EXTINF:-1,MTV Dance
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/167.ts
-#EXTINF:-1,VH1 Music
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/149.ts
-#EXTINF:-1,Mtv Hits
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/143.ts
-#EXTINF:-1,Best music
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/89.ts
-#EXTINF:-1,Eaka rock music
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/227.ts
-#EXTINF:-1,Eska Party Music
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/206.ts
-#EXTINF:-1,Sky UK Premiere
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/166.ts
-#EXTINF:-1,UK - SKY THRILLER
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/158.ts
-#EXTINF:-1,UK: Sky Movies Thriller
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/712.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/162.ts
-#EXTINF:-1,Sky Family HD UK
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/160.ts
-#EXTINF:-1,UK: Sky Sci-Fi
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/703.ts
-#EXTINF:-1,UK: CBS Drama
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/698.ts
-#EXTINF:-1,UK: Sky Drama
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/145.ts
-#EXTINF:-1,Sky Movies Action  (UK)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/159.ts
-#EXTINF:-1,Sky UK Comedy
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/165.ts
-#EXTINF:-1,Sports Tonight UK
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/744.ts
-#EXTINF:-1,SkyUK: BT Sport 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/130.ts
-#EXTINF:-1,SKY UK: BT SPORT 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/131.ts
-#EXTINF:-1,UK: Channel 4
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/68.ts
-#EXTINF:-1,BBC One UK
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/211.ts
-#EXTINF:-1,UK: Discovery
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/67.ts
-#EXTINF:-1,RTE 1 UK
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/66.ts
-#EXTINF:-1,RTE 2 UK
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/198.ts
-#EXTINF:-1,Nat Geo Wild
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/706.ts
-#EXTINF:-1,UK: Travel Channel
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/700.ts
-#EXTINF:-1,UK: ITV 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/694.ts
-#EXTINF:-1,ITV 3
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/696.ts
-#EXTINF:-1,ITV 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/695.ts
-#EXTINF:-1,ITV 4
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/697.ts
-#EXTINF:-1,Setanta Sports Ireland
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/705.ts
-#EXTINF:-1,UK: Premier Sport
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/225.ts
-#EXTINF:-1,SKY Sport 1 HD (uk)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/57.ts
-#EXTINF:-1,SKY Sport 2 HD (uk)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/58.ts
-#EXTINF:-1,SKY Sport 3 HD (uk)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/59.ts
-#EXTINF:-1,SKY Sport 4 HD (uk)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/60.ts
-#EXTINF:-1,SKY Sport 5 HD (uk)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/61.ts
-#EXTINF:-1,Rai 1 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/118.ts
-#EXTINF:-1,Rai 2 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/117.ts
-#EXTINF:-1,Rai 3 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/120.ts
-#EXTINF:-1,Italia 1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/122.ts
-#EXTINF:-1,Italia 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/141.ts
-#EXTINF:-1,Rete 4
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/123.ts
-#EXTINF:-1,Canale 5
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/121.ts
-#EXTINF:-1,LA7
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/701.ts
-#EXTINF:-1,Discovery World
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/105.ts
-#EXTINF:-1,Mediaset EXTRA
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/142.ts
-#EXTINF:-1,Premium Cinema HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/111.ts
-#EXTINF:-1,Premium Joy
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/188.ts
-#EXTINF:-1,Premium Maya
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/110.ts
-#EXTINF:-1,Premium Energy
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/109.ts
-#EXTINF:-1,Premium Crime
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/104.ts
-#EXTINF:-1,Premium Emotion
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/44.ts
-#EXTINF:-1,Premium Action
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/112.ts
-#EXTINF:-1,PREMIUM COMEDY
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/172.ts
-#EXTINF:-1,Premium Disney Channel
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/189.ts
-#EXTINF:-1,Premium Fox Sport
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/213.ts
-#EXTINF:-1,Premium Calcio
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/113.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/205.ts
-#EXTINF:-1,Premium Calcio 2 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/210.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/114.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/116.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/132.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/128.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/163.ts
-#EXTINF:-1,Cinema Passion HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/164.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/124.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/146.ts
-#EXTINF:-1,SKY Discovery World
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/127.ts
-#EXTINF:-1,SKY ANIMAL PLANET
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/208.ts
-#EXTINF:-1,NationalGeo HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/223.ts
-#EXTINF:-1,Sky 3D Italian
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/704.ts
-#EXTINF:-1,Caccia & Pesca
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/81.ts
-#EXTINF:-1,Euro Sport
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/155.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/157.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/125.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/126.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/180.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/195.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/219.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/220.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/221.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/222.ts
-#EXTINF:-1,Sky Moto GP
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/129.ts
-#EXTINF:-1,Sky Fox HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/177.ts
-#EXTINF:-1,PrimaFila 1 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/72.ts
-#EXTINF:-1,PrimaFila 2 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/199.ts
-#EXTINF:-1,PrimaFila 3 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/190.ts
-#EXTINF:-1,PrimaFila 4 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/88.ts
-#EXTINF:-1,Primafila 5 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/73.ts
-#EXTINF:-1,Primafila 6 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/215.ts
-#EXTINF:-1,Primafila 7 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/216.ts
-#EXTINF:-1,Primafila 8 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/217.ts
-#EXTINF:-1,Primafila 9 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/214.ts
-#EXTINF:-1,Primafila 10 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/207.ts
-#EXTINF:-1,RTL Deutschland
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/170.ts
-#EXTINF:-1,RTL II Deutschland
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/136.ts
-#EXTINF:-1,Super RTL
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/203.ts
-#EXTINF:-1,ZDF
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/95.ts
-#EXTINF:-1,ProSieben
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/202.ts
-#EXTINF:-1,DAS ERTES
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/96.ts
-#EXTINF:-1,Cartoon Network
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/134.ts
-#EXTINF:-1,Sky DE Cinema HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/133.ts
-#EXTINF:-1,SKY DE EMOTION
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/218.ts
-#EXTINF:-1,Sky De Krimi
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/148.ts
-#EXTINF:-1,SKY ACTION DE
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/135.ts
-#EXTINF:-1,SKY Bundesliga
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/71.ts
-#EXTINF:-1,SKY Sport 1 HD (de)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/75.ts
-#EXTINF:-1,SKY Sport 2 HD (de)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/76.ts
-#EXTINF:-1,National Geographic Channel Deutschland
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/235.ts
-#EXTINF:-1,France O HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/69.ts
-#EXTINF:-1,France 2 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/70.ts
-#EXTINF:-1,ARTE
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/161.ts
-#EXTINF:-1,Discoveri Science Fr
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/711.ts
-#EXTINF:-1,Ushuaia-Tv-HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/702.ts
-#EXTINF:-1,Animax Fr
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/723.ts
-#EXTINF:-1,FR:-Planete
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/731.ts
-#EXTINF:-1,Chasse et Peche FR:
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/732.ts
-#EXTINF:-1,Real Madrid TV
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/730.ts
-#EXTINF:-1,BOOMERANG
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/733.ts
-#EXTINF:-1,Canal Sport FR
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/729.ts
-#EXTINF:-1,Bein Sport  1 HD FR
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/194.ts
-#EXTINF:-1,Bein Sport  2 HD FR
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/193.ts
-#EXTINF:-1,BEIN SPORT 3 HD AR
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/724.ts
-#EXTINF:-1,BeinSport 4
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/773.ts
-#EXTINF:-1,beINSport 5 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/742.ts
-#EXTINF:-1,beINSport 6 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/741.ts
-#EXTINF:-1,beINSport 7 HD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/740.ts
-#EXTINF:-1,POR - Sport TV1
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/197.ts
-#EXTINF:-1,POR - Sport TV 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/204.ts
-#EXTINF:-1,SWED: VIASAT FILM
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/752.ts
-#EXTINF:-1,SWED: VIASAT ACTION
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/753.ts
-#EXTINF:-1,SWED: TV8 SW
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/754.ts
-#EXTINF:-1,SWED: TV6
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/755.ts
-#EXTINF:-1,SWED: TV4 GULD
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/756.ts
-#EXTINF:-1,SWED: TV4 FAKTA
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/757.ts
-#EXTINF:-1,SWED: C MORE SPORT
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/758.ts
-#EXTINF:-1,SWED: C MORE SERIES
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/759.ts
-#EXTINF:-1,SWED: C MORE LIVE 4
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/760.ts
-#EXTINF:-1,SWED: C MORE LIVE 3
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/761.ts
-#EXTINF:-1,SWED: C MORE LIVE 2
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/762.ts
-#EXTINF:-1,SWED: C MORE LIVE
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/763.ts
-#EXTINF:-1,SWED: C MORE HITS
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/764.ts
-#EXTINF:-1,SWED: C MORE FOOTBAL NO
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/765.ts
-#EXTINF:-1,SWED: C MORE FIRST
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/766.ts
-#EXTINF:-1,SWED: C MORE ACTION
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/767.ts
-#EXTINF:-1,Ant 1 (GR)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/152.ts
-#EXTINF:-1,Mega
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/137.ts
-#EXTINF:-1,Star (GR)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/83.ts
-#EXTINF:-1,Alpha (GR)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/84.ts
-#EXTINF:-1,Anea
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/119.ts
-#EXTINF:-1,Nea gr
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/82.ts
-#EXTINF:-1,Nerit
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/778.ts
-#EXTINF:-1,GR: Nerit Plus
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/777.ts
-#EXTINF:-1,Mad (GR)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/185.ts
-#EXTINF:-1,Animal Planet Gr
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/179.ts
-#EXTINF:-1,Discovery  Greek
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/147.ts
-#EXTINF:-1,Discovery Show  Greek
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/234.ts
-#EXTINF:-1,Ote cinema 1 HD (GR)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/138.ts
-#EXTINF:-1,Ote cinema 2 HD (GR)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/139.ts
-#EXTINF:-1,Ote cinema 3 HD (GR)
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/140.ts
-#EXTINF:-1,Disney Channel GR
-http://iptv.hopto.org:9705/live/Test:FCB:/AlbTvSystems/144.ts
+#EXTINF:-1,AL:Supersport 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/445.ch
+#EXTINF:-1,AL:Supersport 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/446.ch
+#EXTINF:-1,AL:Supersport 3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/447.ch
+#EXTINF:-1,AL:Supersport 4
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/448.ch
+#EXTINF:-1,AR:beIN SPORT 1 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/158.ch
+#EXTINF:-1,AR:beIN SPORT 10 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/167.ch
+#EXTINF:-1,AR:beIN SPORT 11 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/168.ch
+#EXTINF:-1,AR:beIN SPORT 12 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/169.ch
+#EXTINF:-1,AR:beIN SPORT 13 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/170.ch
+#EXTINF:-1,AR:beIN SPORT 14 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/171.ch
+#EXTINF:-1,AR:beIN SPORT 15 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/172.ch
+#EXTINF:-1,AR:beIN SPORT 16 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/173.ch
+#EXTINF:-1,AR:beIN SPORT 2 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/159.ch
+#EXTINF:-1,AR:beIN SPORT 3 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/160.ch
+#EXTINF:-1,AR:beIN SPORT 4 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/161.ch
+#EXTINF:-1,AR:beIN SPORT 5 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/162.ch
+#EXTINF:-1,AR:beIN SPORT 6 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/163.ch
+#EXTINF:-1,AR:beIN SPORT 7 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/164.ch
+#EXTINF:-1,AR:beIN SPORT 8 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/165.ch
+#EXTINF:-1,AR:beIN SPORT 9 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/166.ch
+#EXTINF:-1,AR:opt:BeinSport-11-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/184.ch
+#EXTINF:-1,AR:opt:BeinSport-12-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/185.ch
+#EXTINF:-1,AR:opt:BeinSport-13-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/186.ch
+#EXTINF:-1,AR:opt:BeinSport-14-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/187.ch
+#EXTINF:-1,AR:opt:BeinSport-15-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/188.ch
+#EXTINF:-1,AR:opt:BeinSports-1-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/174.ch
+#EXTINF:-1,AR:opt:BeinSports-10-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/183.ch
+#EXTINF:-1,AR:opt:BeinSports-2-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/175.ch
+#EXTINF:-1,AR:opt:BeinSports-3-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/176.ch
+#EXTINF:-1,AR:opt:BeinSports-4-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/177.ch
+#EXTINF:-1,AR:opt:BeinSports-5-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/178.ch
+#EXTINF:-1,AR:opt:BeinSports-6-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/179.ch
+#EXTINF:-1,AR:opt:BeinSports-7-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/180.ch
+#EXTINF:-1,AR:opt:BeinSports-8-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/181.ch
+#EXTINF:-1,AR:opt:BeinSports-9-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/182.ch
+#EXTINF:-1,FR:opt:Bein-Sports-1-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/199.ch
+#EXTINF:-1,FR:opt:BeinSports-2-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/200.ch
+#EXTINF:-1,FR:opt:BeinSports-3-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/201.ch
+#EXTINF:-1,Ger:Sky Bundesliga 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/377.ch
+#EXTINF:-1,Ger:Sky Sport 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/381.ch
+#EXTINF:-1,Ger:Sky Sport 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/382.ch
+#EXTINF:-1,IND:Star Sport 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/453.ch
+#EXTINF:-1,IND:Star Sport 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/454.ch
+#EXTINF:-1,IT:Sky Moto GP HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/287.ch
+#EXTINF:-1,IT:opt:Sky Sport 3 HD(not stable)
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/283.ch
+#EXTINF:-1,IT:opt:Sky Sport F1 HD(not stable)
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/282.ch
+#EXTINF:-1,IT:Sky F1 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/256.ch
+#EXTINF:-1,Latino:Bein N
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/190.ch
+#EXTINF:-1,NL: Fox Sport 1 Eredivisie
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/430.ch
+#EXTINF:-1,NL: Fox Sport 2 Eredivisie
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/429.ch
+#EXTINF:-1,NL: Fox Sport 3 Eredivisie
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/428.ch
+#EXTINF:-1,NL: Fox Sport 6
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/427.ch
+#EXTINF:-1,Nordic:C More Sport
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/152.ch
+#EXTINF:-1,PT: benfica tv 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/207.ch
+#EXTINF:-1,PT: benfica tv 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/213.ch
+#EXTINF:-1,PT: sport tv 3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/204.ch
+#EXTINF:-1,PT: SPORT TV 4
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/205.ch
+#EXTINF:-1,PT: sport tv5
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/206.ch
+#EXTINF:-1,PT: Sport.TV1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/202.ch
+#EXTINF:-1,PT: Sport.TV2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/203.ch
+#EXTINF:-1,PT: Sporting TV
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/208.ch
+#EXTINF:-1,PT:opt:Sport TV 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/229.ch
+#EXTINF:-1,PT:opt:Sport TV 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/230.ch
+#EXTINF:-1,PT:opt:Sport TV 3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/231.ch
+#EXTINF:-1,PT:opt:Sport TV 4
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/232.ch
+#EXTINF:-1,PT:opt:Sport TV 5
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/233.ch
+#EXTINF:-1,Ro:Digi Sport 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/412.ch
+#EXTINF:-1,Ro:Digi Sport 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/413.ch
+#EXTINF:-1,Ro:Digi Sport 3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/414.ch
+#EXTINF:-1,Ser:Arena Sport 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/415.ch
+#EXTINF:-1,Ser:SK 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/420.ch
+#EXTINF:-1,Ser:SK 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/421.ch
+#EXTINF:-1,Ser:SK 3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/422.ch
+#EXTINF:-1,Serbia:Arena Sport 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/416.ch
+#EXTINF:-1,Serbia:Arena Sport 3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/417.ch
+#EXTINF:-1,Serbia:Arena Sport 4
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/418.ch
+#EXTINF:-1,Serbia:Arena Sport 5
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/419.ch
+#EXTINF:-1,SP:Canal Deportes
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/328.ch
+#EXTINF:-1,SP:Canal Golf
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/331.ch
+#EXTINF:-1,SP:Canal Liga
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/332.ch
+#EXTINF:-1,SP:Canal+ Futbol
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/392.ch
+#EXTINF:-1,SP:Real Madrid TV
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/353.ch
+#EXTINF:-1,TR:Lig TV
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/268.ch
+#EXTINF:-1,UK:Boxnation
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/60.ch
+#EXTINF:-1,UK:Boxnation(opt)
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/68.ch
+#EXTINF:-1,UK:BT Sport 1 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/4.ch
+#EXTINF:-1,UK:BT Sport 1 SD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/12.ch
+#EXTINF:-1,UK:BT Sport 2 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/5.ch
+#EXTINF:-1,UK:BT Sport 2 SD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/13.ch
+#EXTINF:-1,UK:Eurosport
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/64.ch
+#EXTINF:-1,UK:F1 SD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/19.ch
+#EXTINF:-1,UK:LFCTV
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/62.ch
+#EXTINF:-1,UK:Motors TV
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/67.ch
+#EXTINF:-1,UK:Premier Sport
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/69.ch
+#EXTINF:-1,UK:Setanta
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/70.ch
+#EXTINF:-1,UK:Sky Sport 1 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/6.ch
+#EXTINF:-1,UK:Sky Sport 1 SD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/14.ch
+#EXTINF:-1,UK:Sky Sport 2 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/7.ch
+#EXTINF:-1,UK:Sky Sport 2 SD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/15.ch
+#EXTINF:-1,UK:Sky Sport 3 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/8.ch
+#EXTINF:-1,UK:Sky Sport 3 SD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/16.ch
+#EXTINF:-1,UK:Sky Sport 4 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/9.ch
+#EXTINF:-1,UK:Sky Sport 4 SD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/17.ch
+#EXTINF:-1,UK:Sky Sport 5 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/10.ch
+#EXTINF:-1,UK:Sky Sport 5 SD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/18.ch
+#EXTINF:-1,UK:Sky Sport News HQ
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/47.ch
+#EXTINF:-1,USA:Bein Sports USA HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/189.ch
+#EXTINF:-1,Ca:TSN 1 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/462.ch
+#EXTINF:-1,Ca:TSN 2 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/463.ch
+#EXTINF:-1,Czech:O Sport
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1641.ch
+#EXTINF:-1,FR:Canal Sport
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/400.ch
+#EXTINF:-1,IT:Sky Calcio 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/251.ch
+#EXTINF:-1,IT:Sky Sport 1 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/991.ch
+#EXTINF:-1,IT:Sky Sport 2 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1000.ch
+#EXTINF:-1,IT:Sky Sport 24 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/992.ch
+#EXTINF:-1,Latino**:ESPN
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1832.ch
+#EXTINF:-1,Latino**:ESPN2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1833.ch
+#EXTINF:-1,Latino**:FOX SPORTS
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1831.ch
+#EXTINF:-1,Latino*:ESPN
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1795.ch
+#EXTINF:-1,Latino*:ESPN 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1796.ch
+#EXTINF:-1,Latino*:ESPN 3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1797.ch
+#EXTINF:-1,Latino*:ESPN HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1794.ch
+#EXTINF:-1,Neth:Sport1SelectHD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/677.ch
+#EXTINF:-1,NL:Sport 1 Votbal
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1060.ch
+#EXTINF:-1,Nordic:C More Live
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/153.ch
+#EXTINF:-1,Nordic:C More Live 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/154.ch
+#EXTINF:-1,Nordic:C More Live 3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/155.ch
+#EXTINF:-1,Nordic:C More Live 4
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/156.ch
+#EXTINF:-1,Nordic:Viasat Fotball
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/140.ch
+#EXTINF:-1,Nordic:Viasat Hockey
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/141.ch
+#EXTINF:-1,Nordic:Viasat Motor
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/142.ch
+#EXTINF:-1,Nordic:Viasat Sport
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/139.ch
+#EXTINF:-1,TR: Smart Spor 1 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/465.ch
+#EXTINF:-1,USA:FoxSports1HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1024.ch
+#EXTINF:-1,USA:FoxSports2US
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1025.ch
+#EXTINF:-1,USA:NBA TV
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1016.ch
+#EXTINF:-1,USA:NFL Network
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1017.ch
+#EXTINF:-1,IT:Sky Sport
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/998.ch
+#EXTINF:-1,IT:SKY SPORT 3 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2189.ch
+#EXTINF:-1,TR: LIGTV 1 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1961.ch
+#EXTINF:-1,TR: LIGTV 2 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1960.ch
+#EXTINF:-1,TR: LIGTV 3 HD unstable
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1959.ch
+#EXTINF:-1,UK:BT Sport Europe HD –
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/1333.ch
+#EXTINF:-1,Arabic:***Ad-Sport-2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2267.ch
+#EXTINF:-1,Arabic:***Alkass-three-sport-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2274.ch
+#EXTINF:-1,Arabic:***Alkass-two-sport-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2273.ch
+#EXTINF:-1,Arabic:***MBC_pro_sport_1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2262.ch
+#EXTINF:-1,Arabic:***MBC_pro_sport_2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2263.ch
+#EXTINF:-1,Arabic:***MBC_pro_sport_3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2264.ch
+#EXTINF:-1,Arabic:***MBC_pro_sport_4
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2265.ch
+#EXTINF:-1,Arabic:***OSN-WWE-HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2237.ch
+#EXTINF:-1,FR:EUROSPORT 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2198.ch
+#EXTINF:-1,IN: Star Sports 4
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2287.ch
+#EXTINF:-1,IN: Ten Sports
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2285.ch
+#EXTINF:-1,Ca:TSN 3 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2371.ch
+#EXTINF:-1,Ca:TSN 4 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2372.ch
+#EXTINF:-1,Ca:TSN 5 HD
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2373.ch
+#EXTINF:-1,TH:CTH Stadium 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2365.ch
+#EXTINF:-1,TH:CTH Stadium 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2366.ch
+#EXTINF:-1,TH:CTH Stadium 3
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2367.ch
+#EXTINF:-1,TH:CTH Stadium 4
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2368.ch
+#EXTINF:-1,TH:CTH Stadium 5
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2369.ch
+#EXTINF:-1,TH:CTH Stadium 6
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2370.ch
+#EXTINF:-1,Alb:SS Kosova 2
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2364.ch
+#EXTINF:-1,Alb:SS Kosovo 1
+http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/2363.ch
